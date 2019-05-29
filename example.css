@@ -1,0 +1,19 @@
+body {
+  background-size: 110%;
+  background-repeat: no-repeat;
+  background-image: url("https://naldzgraphics.net/wp-content/uploads/2013/06/1-purple-mystical-pokeball-wallpapers-designs.jpg");
+  background-color: #ff0000
+}
+
+button {
+  font-size: 200%;
+  background-color: darkRed;
+  color: lightPink;
+  margin-left: 50%;
+  margin-top: 5%;
+}
+
+h1 {
+  margin-left: 41%;
+  font-size: 500%;
+}
